@@ -1,0 +1,9 @@
+[
+  { "name": "Google", "url": "https://google.com" },
+  { "name": "GitHub", "url": "https://github.com" },
+  { "name": "Letterboxd", "url": "https://letterboxd.com/" },
+  { "name": "Cloudflare", "url": "https://cloudflare.com" },
+  { "name": "YouTube", "url": "https://www.youtube.com/" },
+  { "name": "Claude", "url": "https://claude.ai" },
+  { "name": "AWS East 1", "url": "https://health.aws.amazon.com/health/status" }
+]
