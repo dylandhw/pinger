@@ -1,47 +1,47 @@
 {
-  "checkedAt": "2026-03-23T22:14:56.768Z",
+  "checkedAt": "2026-03-23T22:33:39.755Z",
   "sites": [
     {
       "name": "Google",
       "url": "https://google.com",
       "online": true,
-      "ms": 103
+      "ms": 88
     },
     {
       "name": "GitHub",
       "url": "https://github.com",
       "online": true,
-      "ms": 32
+      "ms": 74
     },
     {
       "name": "Letterboxd",
       "url": "https://letterboxd.com/",
       "online": true,
-      "ms": 43
+      "ms": 37
     },
     {
       "name": "Cloudflare",
       "url": "https://cloudflare.com",
       "online": true,
-      "ms": 63
+      "ms": 32
     },
     {
       "name": "YouTube",
       "url": "https://www.youtube.com/",
       "online": true,
-      "ms": 335
+      "ms": 385
     },
     {
       "name": "Claude",
       "url": "https://claude.ai",
       "online": true,
-      "ms": 55
+      "ms": 39
     },
     {
       "name": "AWS East 1",
       "url": "https://health.aws.amazon.com/health/status",
       "online": true,
-      "ms": 244
+      "ms": 350
     }
   ]
 }
