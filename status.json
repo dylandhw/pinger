@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-03-27T23:12:50.924Z",
+  "checkedAt": "2026-03-27T23:31:05.121Z",
   "sites": [
     {
       "name": "Google",
@@ -11,37 +11,37 @@
       "name": "GitHub",
       "url": "https://github.com",
       "online": true,
-      "ms": 30
+      "ms": 31
     },
     {
       "name": "Letterboxd",
       "url": "https://letterboxd.com/",
       "online": true,
-      "ms": 113
+      "ms": 74
     },
     {
       "name": "Cloudflare",
       "url": "https://cloudflare.com",
       "online": true,
-      "ms": 41
+      "ms": 44
     },
     {
       "name": "YouTube",
       "url": "https://www.youtube.com/",
       "online": true,
-      "ms": 187
+      "ms": 188
     },
     {
       "name": "Claude",
       "url": "https://claude.ai",
       "online": true,
-      "ms": 83
+      "ms": 65
     },
     {
       "name": "AWS East 1",
       "url": "https://health.aws.amazon.com/health/status",
       "online": true,
-      "ms": 170
+      "ms": 166
     }
   ]
 }
